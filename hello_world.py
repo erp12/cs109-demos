@@ -15,7 +15,7 @@ y = intercept + (slope * x)
 print(y)
 
 
-monthly_rent_per_person = 400.00
-num_people = 4
+monthly_rent_per_person = 600.00
+num_people = 3
 total_rent = monthly_rent_per_person * num_people
 print(total_rent)
