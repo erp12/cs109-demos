@@ -75,6 +75,8 @@ def move(player_row, player_col, direction):
 
 def play_game():
 
+    print("Welcome to the maze")
+
     player_row = start_row
     player_col = start_col
 
